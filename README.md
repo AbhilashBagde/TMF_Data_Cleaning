@@ -1,6 +1,5 @@
 # TMF_Data_Cleaning
 
-```markdown
 # TMF Health Quality Institute: Rural Emergency Hospital (REH) ETL Pipeline
 **UT Austin MSBA Capstone Project**
 
@@ -24,7 +23,6 @@ To run this pipeline locally, you must set up your environment and provide your 
 git clone <your-github-repo-url>
 cd <your-repo-folder>
 
-```
 
 ### 2. Install Dependencies
 
