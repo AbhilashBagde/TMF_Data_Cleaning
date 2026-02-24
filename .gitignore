@@ -1,0 +1,2 @@
+# .env files contain sensitive credentials and should not be committed to git repositories.
+.env
